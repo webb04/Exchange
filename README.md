@@ -18,3 +18,4 @@
 - Accessibility (ARIA, semantic HTML tags, roles)
 - TopBar dropdown
 - Better mobile support (e.g. numeric keyboard)
+- Flexbox fallback for CSS grids using https://developer.mozilla.org/en-US/docs/Web/CSS/%40supports
